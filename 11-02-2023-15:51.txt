@@ -1,0 +1,17 @@
+Отчёт о состоянии системы:
+Пользователи системы: root, avahi, message+, syslog, rtkit, colord, kernoops, justcrow, systemd+
+Процессов запущено: 330
+Пользовательских процессов: 
+root: 206
+avahi: 2
+message+: 1
+syslog: 1
+rtkit: 1
+colord: 1
+kernoops: 2
+justcrow: 113
+systemd+: 3
+Всего памяти используется: 42.1 MB
+Всего CPU используется: 54.8%
+Больше всего памяти используется: com.intellij.idea.Ma (14.2 MB)
+Больше всего CPU используется: com.intellij.idea.Ma (31.9%)
